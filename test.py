@@ -1,4 +1,5 @@
 a = 1
 c = 1
-b = c
+b = a
 print(a)
+print(b)
