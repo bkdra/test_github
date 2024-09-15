@@ -1,2 +1,2 @@
 # test_github
-using to learning git
+using to learn git
